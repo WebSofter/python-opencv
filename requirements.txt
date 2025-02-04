@@ -1,0 +1,15 @@
+backports.tarfile==1.2.0
+easyocr==1.7.2
+giving==0.4.3
+importlib-metadata==8.0.0
+imutils==0.5.4
+jaraco.collections==5.1.0
+jurigged==0.6.0
+matplotlib==3.10.0
+opencv-contrib-python==4.11.0.86
+opencv-python==4.11.0.86
+pip-chill==1.0.3
+platformdirs==4.2.2
+rich==13.9.4
+tomli==2.0.1
+torchaudio==2.6.0
